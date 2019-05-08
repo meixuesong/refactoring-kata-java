@@ -10,6 +10,6 @@ public class CustomerTest {
         Phone phone = new Phone("01055588888");
         Customer customer = new Customer("Li", phone);
 
-        assertEquals("", customer.getNameAndPhone());
+        assertEquals("Li(010)555-8888", customer.getNameAndPhone());
     }
 }
