@@ -2,6 +2,9 @@ package refactoring.smell.data_class;
 
 import java.util.Date;
 
+/**
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
+ */
 public class User {
     private String id;
     //姓名
