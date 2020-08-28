@@ -2,7 +2,7 @@ package refactoring.smell.switch_statement;
 
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public final class Engineer {
     public static final String FULL_STACK = "FullStack";

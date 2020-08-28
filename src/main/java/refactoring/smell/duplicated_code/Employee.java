@@ -1,7 +1,7 @@
 package refactoring.smell.duplicated_code;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Employee {
     private final String type;

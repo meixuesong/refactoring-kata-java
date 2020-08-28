@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class User {
     public boolean validateUserName(String userName) {

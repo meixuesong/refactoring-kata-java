@@ -1,7 +1,7 @@
 package refactoring.smell.large_class;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Order {
 }

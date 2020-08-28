@@ -1,7 +1,7 @@
 package refactoring.smell.primitive_obsession;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Toy {
     private String type;

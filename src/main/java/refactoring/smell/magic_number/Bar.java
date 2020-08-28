@@ -1,7 +1,7 @@
 package refactoring.smell.magic_number;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Bar {
 

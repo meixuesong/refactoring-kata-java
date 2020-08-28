@@ -3,7 +3,7 @@ package refactoring.smell.long_method.kanban;
 import java.util.List;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Kanban {
     private List<KanbanUser> users;

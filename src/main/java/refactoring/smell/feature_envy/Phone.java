@@ -1,7 +1,7 @@
 package refactoring.smell.feature_envy;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Phone {
     private final String unformattedNumber;

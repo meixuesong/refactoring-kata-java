@@ -1,7 +1,7 @@
 package refactoring.smell.long_parameter_list.exercise2;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class EnvolopePrinter {
     //TODO: 参数过长

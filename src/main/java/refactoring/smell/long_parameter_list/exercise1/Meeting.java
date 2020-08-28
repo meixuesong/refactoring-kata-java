@@ -3,7 +3,7 @@ package refactoring.smell.long_parameter_list.exercise1;
 import java.util.Date;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Meeting {
     private Date beginDate;

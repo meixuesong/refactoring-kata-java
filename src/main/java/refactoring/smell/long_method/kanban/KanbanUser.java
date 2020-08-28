@@ -1,7 +1,7 @@
 package refactoring.smell.long_method.kanban;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class KanbanUser {
     private String loginCode;

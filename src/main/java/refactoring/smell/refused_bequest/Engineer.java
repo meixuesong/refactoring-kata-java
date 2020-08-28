@@ -1,7 +1,7 @@
 package refactoring.smell.refused_bequest;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class Engineer extends Employee {
     @Override

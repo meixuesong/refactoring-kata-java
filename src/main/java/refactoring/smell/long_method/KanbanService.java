@@ -1,6 +1,5 @@
 package refactoring.smell.long_method;
 
-import com.sun.tools.javac.util.Assert;
 import org.apache.commons.lang3.StringUtils;
 import refactoring.smell.long_method.kanban.ColumnService;
 import refactoring.smell.long_method.kanban.Kanban;
@@ -14,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 public class KanbanService {
     private ColumnService columnService;
@@ -34,7 +33,9 @@ public class KanbanService {
     //TODO: 过长方法
     public Kanban query(String search,
                         String teamId) {
-        Assert.checkNonNull(teamId, "Team can not be null");
+        if (teamId == null) {
+            throw new IllegalArgumentException("Team can not be null");
+        }
         Kanban kanban = new Kanban();
         //查询该团队有哪些任务状态，每个状态对应看板的一列。
         List<TaskInfo> states = columnService.getTaskStatesByTeamId(teamId);

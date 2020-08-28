@@ -1,7 +1,7 @@
 package refactoring.smell.comments;
 
 /**
- * @author meixuesong
+ * @author  <a href="mailto:meixuesong@gmail.com">Mei Xuesong</a>
  */
 //TODO: 请修复注释坏味道
 public class User {
