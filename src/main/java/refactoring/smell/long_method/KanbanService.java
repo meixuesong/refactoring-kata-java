@@ -28,6 +28,7 @@ public class KanbanService {
      * @param teamId 团队ID
      * @return 该团队的看板
      */
+    //TODO: 过长方法
     public Kanban query(String search,
                         String teamId) {
         Assert.checkNonNull(teamId, "Team can not be null");
