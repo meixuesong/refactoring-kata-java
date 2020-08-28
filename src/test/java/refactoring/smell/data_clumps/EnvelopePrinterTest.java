@@ -4,12 +4,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class EnvolopePrinterTest {
+public class EnvelopePrinterTest {
 
     @Test
     public void should_print_correct_envolope() {
-        EnvolopePrinter printer = new EnvolopePrinter();
-        String result = printer.printEnvolope("Xiaoming", "Li", "100007", "Beijing",
+        EnvelopePrinter printer = new EnvelopePrinter();
+        String result = printer.printEnvelope("Xiaoming", "Li", "100007", "Beijing",
                 "No.3 Dongzhimen South Street", "Room 1105, GuoHua Plaza", "18811111111");
 
         assertEquals("Xiaoming, Li\n" +

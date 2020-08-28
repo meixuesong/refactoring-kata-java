@@ -1,5 +1,8 @@
 package refactoring.smell.long_method.kanban;
 
+/**
+ * @author meixuesong
+ */
 public class TaskInfo {
     private User assignToUser;
     private String id;

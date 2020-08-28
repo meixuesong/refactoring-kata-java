@@ -2,9 +2,11 @@ package refactoring.smell.excessive_indentation;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
+/**
+ * @author meixuesong
+ */
 public class User {
     public boolean validateUserName(String userName) {
         boolean isValid = false;

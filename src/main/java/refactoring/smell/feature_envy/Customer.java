@@ -1,5 +1,8 @@
 package refactoring.smell.feature_envy;
 
+/**
+ * @author meixuesong
+ */
 public class Customer {
     private String name;
     private Phone mobilePhone;

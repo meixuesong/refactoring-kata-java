@@ -4,6 +4,9 @@ package refactoring.smell.duplicated_code;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author meixuesong
+ */
 public class EmployeeFinder {
 
     public static final String ENGINEER = "ENGINEER";

@@ -1,5 +1,8 @@
 package refactoring.smell.magic_number;
 
+/**
+ * @author meixuesong
+ */
 public class Bar {
 
     /**

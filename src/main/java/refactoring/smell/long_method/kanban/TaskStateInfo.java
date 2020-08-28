@@ -2,6 +2,9 @@ package refactoring.smell.long_method.kanban;
 
 import java.util.List;
 
+/**
+ * @author meixuesong
+ */
 public class TaskStateInfo {
     private String id;
     private String name;

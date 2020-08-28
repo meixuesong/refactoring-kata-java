@@ -1,5 +1,8 @@
 package refactoring.smell.primitive_obsession;
 
+/**
+ * @author meixuesong
+ */
 public class Toy {
     private String type;
     private int length;

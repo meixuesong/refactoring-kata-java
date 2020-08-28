@@ -1,6 +1,9 @@
 package refactoring.smell.switch_statement;
 
 
+/**
+ * @author meixuesong
+ */
 public final class Engineer {
     public static final String FULL_STACK = "FullStack";
     public static final String FRONTEND = "Frontend";

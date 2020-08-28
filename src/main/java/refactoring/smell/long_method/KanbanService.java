@@ -13,6 +13,9 @@ import refactoring.smell.long_method.kanban.TaskInfo;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author meixuesong
+ */
 public class KanbanService {
     private ColumnService columnService;
     private QueryService queryService;

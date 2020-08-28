@@ -2,6 +2,9 @@ package refactoring.smell.long_parameter_list.exercise1;
 
 import java.util.Date;
 
+/**
+ * @author meixuesong
+ */
 public class Meeting {
     private Date beginDate;
     private Date endDate;

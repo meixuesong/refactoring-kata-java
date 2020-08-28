@@ -1,5 +1,8 @@
 package refactoring.smell.duplicated_code;
 
+/**
+ * @author meixuesong
+ */
 public class Employee {
     private final String type;
     private final String name;

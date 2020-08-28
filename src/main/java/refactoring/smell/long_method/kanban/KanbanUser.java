@@ -1,5 +1,8 @@
 package refactoring.smell.long_method.kanban;
 
+/**
+ * @author meixuesong
+ */
 public class KanbanUser {
     private String loginCode;
     private String name;

@@ -5,6 +5,7 @@ import java.util.Date;
 /**
  * TODO：
  * Person类过大，请将它重构成三个类，Person及其两个子类：Manager, SalesPerson
+ * @author meixuesong
  */
 public class Person {
     //员工ID

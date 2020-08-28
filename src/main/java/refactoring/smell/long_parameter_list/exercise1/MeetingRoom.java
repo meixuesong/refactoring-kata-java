@@ -3,6 +3,9 @@ package refactoring.smell.long_parameter_list.exercise1;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * @author meixuesong
+ */
 public class MeetingRoom {
     private List<Meeting> meetings;
 

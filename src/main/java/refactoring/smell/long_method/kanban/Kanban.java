@@ -2,6 +2,9 @@ package refactoring.smell.long_method.kanban;
 
 import java.util.List;
 
+/**
+ * @author meixuesong
+ */
 public class Kanban {
     private List<KanbanUser> users;
     private List<KanbanColumn> columns;
